@@ -3,6 +3,6 @@
 ---
 ## Banco de Imagens
 
-*Pexels
+*[Pexels](https://www.pexels.com/pt-br/)
 
-*Pixabay
+*[Pixabay](https://pixabay.com/pt/)
