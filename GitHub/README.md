@@ -93,6 +93,15 @@
 * As Issues são encerradas quando o problema for resolvido ou recurso implantado.
 
 ---
+## GitHub Pages
+*
+
+*
+
+*
+
+
+---
 # Linguagem Markdown
 Formata o texto para melhor legibilidade.
 
