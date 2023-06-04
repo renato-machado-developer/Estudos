@@ -94,12 +94,13 @@
 
 ---
 ## GitHub Pages
-*
+* Permite criar ilimitadas páginas web.
 
-*
+* Permite hospedar sites estáticos em HTML, CSS e JavaScript.
 
-*
+* Limitado quanto ao tamanho e uso de largura de banda.
 
+* Não pode ser usado para hospedar sites dinâmicos.
 
 ---
 # Linguagem Markdown
