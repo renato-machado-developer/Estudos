@@ -28,10 +28,10 @@ Este Repositório é um registro dos meus estudos, está formado por tópicos e 
 
 [GIMP]
 
-[Teste e TDD]
+[Desenvolvimento Orientado por Testes]
 
-[Manifesto Agil]
+[Manifesto Ágil]
 
-[Praticas em UX Desing]
+[Desing de Experiência do Usuário]
 
 [RegEx]
