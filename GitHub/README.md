@@ -86,7 +86,7 @@
 ## Problemas (Issues)
 * Permite usuários comunicarem problemas ou ideias sobre o repositório.
 
-* Rastreia e gerência, tarefas, bugs e solicitações de recusos sobre o repositório.
+* Rastreia e gerência, tarefas, bugs e solicitações de recursos sobre o repositório.
 
 * Outros membros podem fornecer feedback, perguntas ou soluções.
 
