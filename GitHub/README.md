@@ -93,7 +93,7 @@
 * As Issues são encerradas quando o problema for resolvido ou recurso implantado.
 
 ---
-## GitHub Pages
+## GitHub P
 * Permite criar ilimitadas páginas web.
 
 * Permite hospedar sites estáticos em HTML, CSS e JavaScript.
@@ -230,7 +230,7 @@ Crase | Trecho | Crase
 ```|Trecho|```
 
 ---
-**Colocando imagem**
+**Colocando Imagem**
 
 ![octo](https://github.com/renato-machado-developer/Estudos/assets/125524267/bbbbf854-bfe0-4f63-9f3b-932ef7f2b60d)
 
