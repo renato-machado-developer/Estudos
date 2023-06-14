@@ -56,3 +56,10 @@
 * Quando os pacotes chegam, são reagrupados pelo dispositivo receptor, se o pacote for corrompido, poderá ser retransmitido.
 
 * Firewalls controlam entrada e saída de dados, aplicando políticas de segurança para evitar atividades maliciosas.
+
+---
+## Geral
+
+## Defini
+
+Aprendendo a Criar um Branch pelo terminal.
