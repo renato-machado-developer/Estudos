@@ -45,7 +45,7 @@
 
 * Dispositivos são conectados por meio de cabos físicos ou conexões sem fio.
 
-* Dispositivos conectados à Internet recebem um IP exclusivo, que permitem se localizarem e se comunicarem.
+* Dispositivos conectados à Internet recebem um IP exclusivo, que permite se localizarem e se comunicarem.
 
 * Um conjunto de protocolos governam como os dados são transmitidos e recebidos.
 
@@ -56,10 +56,3 @@
 * Quando os pacotes chegam, são reagrupados pelo dispositivo receptor, se o pacote for corrompido, poderá ser retransmitido.
 
 * Firewalls controlam entrada e saída de dados, aplicando políticas de segurança para evitar atividades maliciosas.
-
----
-## Geral
-
-## Defini
-
-Aprendendo a Criar um Branch pelo terminal.
