@@ -38,4 +38,11 @@ Este Repositório é um registro dos meus estudos, está formado por tópicos e 
 
 [RegEx]
 
-[RegEx]
+[Teste]
+
+[Teste]
+
+[Teste]
+
+[Teste]
+
