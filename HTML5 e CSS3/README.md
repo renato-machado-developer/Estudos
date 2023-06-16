@@ -58,6 +58,3 @@
 * Firewalls controlam entrada e saída de dados, aplicando políticas de segurança para evitar atividades maliciosas.
 
 ---
-## Teste para fazer uma Merge pelo terminal.
-
-## Teste para fazer uma Merge pelo terminal.
