@@ -17,6 +17,8 @@
 
 `git push origin conteúdo-teste`
 
+* Insira sua senha.
+
 ---
 ## Criando uma ramificação do repositório pelo terminal (Branch)
 * Nesse exemplo vou criar uma branch do repósitorio Teste que está na pasta GitHub dentro de Documentos, o nome dessa branch será, conteúdo-teste.
@@ -45,6 +47,14 @@
 * No canto inferior esquerdo do Visual Studio você vera a branch que acabou de criar.
 
 ---
+
+## Fundindo a ramificação no repositório principal (Merge).
+
+* Confira se você está na branch que deseja mesclar, estara marcada com um '*'
+ git branch
+
+ * caso não esteja na branch correta, mude com o comando
+ git checkout branch
 
 
 
