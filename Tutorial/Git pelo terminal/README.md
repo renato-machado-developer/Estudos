@@ -68,11 +68,4 @@
 * Envie as alterações mesclandas para o GitHub.
  'git push origin main'
 
-
-
-
-
-
-
-
 Se a pasta *Teste* estiver dentro de *GitHub* dentro de *Documentos*, vamos colocar`cd`seguido do nome da pasta`/`nome da pasta`/`nome da pasta em ordem crescente, até chegar dentro da pasta do repositório.
