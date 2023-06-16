@@ -53,8 +53,20 @@
 * Confira se você está na branch que deseja mesclar, estara marcada com um '*'
  git branch
 
- * caso não esteja na branch correta, mude com o comando
+ * caso não esteja na branch correta, mude com o comando.
  git checkout branch
+
+ * Mescle a ramificação na principal .
+ git merge conteúdo-teste
+
+* Adicionando as modificações na área de preparação.
+ 'git add .' 
+
+* Confirme as alterações de mesclagem junto com uma mensagem apropriada.
+ 'git commit -m mesclando a ramificação conteudo na principal'
+
+* Envie as alterações mesclandas para o GitHub.
+ 'git push origin main'
 
 
 
