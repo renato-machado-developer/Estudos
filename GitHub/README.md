@@ -93,7 +93,7 @@
 * As Issues são encerradas quando o problema for resolvido ou recurso implantado.
 
 ---
-## GitHub P
+## GitHub Páginas
 * Permite criar ilimitadas páginas web.
 
 * Permite hospedar sites estáticos em HTML, CSS e JavaScript.
