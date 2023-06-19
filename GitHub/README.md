@@ -284,3 +284,8 @@ Playlist: [Curso de Git e GitHub: grátis, prático e sem usar comandos no termi
 [ChatGPT](https://chat.openai.com/auth/login?next=/chat)
 
 ---
+[Documentação Oficial Git](https://git-scm.com/doc)
+
+[Documentação Oficial GitHub](https://docs.github.com/pt)
+
+---
