@@ -25,4 +25,22 @@
 
 ---
 ## Comandos
-* 
+* Procura um pacote.
+
+`pamac search nome-do-pacote`
+
+* Instalando um pacote.
+ 
+`pamac install nome-do-pacote`
+
+* Procurar um pacote já instalado no seu sistema com filtro.
+ 
+`pamac seach nome-do-pacote --installed`
+
+* Abrir um programa pelo terminal.
+ 
+`nome-do-programa`
+
+* Obter as informações do programa instalado.
+
+`pamac info nome-do-programa`
