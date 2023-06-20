@@ -2,9 +2,7 @@
 
 Este Repositório é um registro dos meus estudos, está formado por tópicos e características, suas descrições são simplistas, para fidelidade das informações acessar as Documentações Oficiais e Livros Especializados.
 
-[Tutoriais]
-
-[Ferramentas Developer](URL)
+[Git e GitHub](https://github.com/renato-machado-developer/Estudos/tree/main/GitHub)
 
 [HTML e CSS]
 
@@ -14,12 +12,6 @@ Este Repositório é um registro dos meus estudos, está formado por tópicos e 
 
 [ReactJS]
 
-[Git e GitHub](https://github.com/renato-machado-developer/Estudos/tree/main/GitHub)
-
 [WordPress]
 
 [GIMP]
-
-[Manjaro]
-
-[MySQL]
