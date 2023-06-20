@@ -1,24 +1,18 @@
 # Git pelo Terminal
-
-## Criando um repositorio.
-* Navegue até a pasta onde será criado o repositório.
-
-`cd Documentos`
-
-* Inicie o novo repositório.
-`git init`
-
+* Neste exemplo vou criar um repósitorio *Teste* dentro da pasta *GitHub* dentro de *Documentos* depois uma *branch* com nome *conteúdo-teste*.
+  
+## Criando um Repositório.
 * Crie a pasta através do site GitHub.
 
-* Clique em `Repositorios` depois em`Novo`.
+* Clique em `Repositórios` depois em `Novo`.
 
-* Coloque o nome do Repositorio, selecione publico ou privado, selecione para adicionar o README.md, escolha a licensa MIT e clique em criar repositorio.
+* Coloque o nome do repositório, Descrição, selecione público ou privado, adicione o README.md, escolha a licença MIT e clique em criar repositório.
 
-* Clique em 'Código' selecione HTTPS e Copie o URL do repositório.
+* Clique em `Código` selecione HTTPS e Copie o URL do repositório.
 
 * Adicione a URL do repositório remoto no repositório local.
 
-`git remote add origin URL do Repositorio`
+`git remote add origin URL do Repositório`
 
 * Adicione as modificações na área de preparação.
 
@@ -34,9 +28,7 @@
 
 *Digite seu usuário e senha do GitHub.
 
-*Após autênticado, o repositório será criado no GitHub e seu repositório local será sincronizado.
-
-## Enviando suas alterações para o GitHub(Commit).
+## Enviando suas alterações para o GitHub (Commit).
 * Navegue até a pasta do repositório que será criada a *branch*.
 
 `cd Documentos/GitHub/Teste`
@@ -57,7 +49,7 @@
 
 ---
 ## Criando uma ramificação do repositório pelo terminal (Branch).
-* Nesse exemplo vou criar uma branch do repósitorio Teste que está na pasta GitHub dentro de Documentos, o nome dessa branch será, conteúdo-teste.
+* Neste exemplo vou criar uma branch do repósitorio Teste que está na pasta GitHub dentro de Documentos, o nome dessa branch será, conteúdo-teste.
 
 ---
 * Navegue até a pasta do repositório que será criada a *branch*.
