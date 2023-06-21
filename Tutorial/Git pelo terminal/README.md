@@ -23,9 +23,19 @@
 
 * Crie uma pasta GitHub dentro de Documentos.
 
-* No Github clique em **Código**, **HTTPS**, Copie o URL.
+* No GitHub clique em **Código**, **HTTPS**, **Copie o URL**.
+
+* Abra o Terminal **CRTL+T**
+
+* Navegue até a pasta GitHub.
+
+`cd Documentos/GitHub`
 
 `git clone https://github.com/nome-usuário/nome-repositório`
+
+* Inicie o Repositório.
+
+ `git init`
 
 * Adicione a URL do repositório remoto no repositório local:
 
