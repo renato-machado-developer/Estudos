@@ -1,46 +1,41 @@
 # Git pelo Terminal
-* Neste exemplo vou criar um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos** depois uma **branch** com nome **conteúdo-teste**.
+* Neste exemplo vou criar um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos**, e uma **branch** chamado **conteúdo-teste**.
+
+## Conectando seu Git com GitHub.
+* Abra o Terminal **CRTL+T**
+
+* Gere uma chave SSH com **`ssh-keygen`** pressione **Enter** para aceitar as opções padrão:
+
+* Copie a chave pública SSH, para exibir-la **`cat ~/.ssh/id_rsa.pub`**
+
+* Adicione sua chave pública SSH no GitHub em **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole a chave em **Chave** e **Salve a chave**
   
 ## Criando um Repositório.
 * Crie a pasta através do site GitHub.
 
-* Clique em `Repositórios` depois em `Novo`.
+* Clique em **Repositórios**, **Novo**.
 
-* Coloque o nome do repositório, Descrição, selecione público ou privado, adicione o README.md, escolha a licença MIT e clique em criar repositório.
+* Coloque **Nome do Repositório**, **Descrição**, **Público** ou **Privado**, adicione o **README.md**, escolha **Licença MIT**, **Criar**.
 
-*  Crie uma pasta GitHub dentro de Documentos.
+* Crie uma pasta GitHub dentro de Documentos.
 
-* Abra o Terminal **CRTL+T**
+* Clique em **Código**, **HTTPS**, Copie o URL.
 
-* Gere uma chave SSH usando o comando `ssh-keygen` e pressione **Enter** para aceitar as opções padrão:
+* Adicione a URL do repositório remoto no repositório local:
 
-* Copie a chave pública SSH, para exibi-la use:
-
-* `cat ~/.ssh/id_rsa.pub`
-
-* Adicione a chave pública SSH no GitHub em **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole a chave em **Chave** e **Salve a chave**
-
-
-
-
-
-* Clique em `Código` selecione HTTPS e Copie o URL do repositório.
-
-* Adicione a URL do repositório remoto no repositório local.
-
-`git remote add origin URL do Repositório`
+ `git remote add origin URL do Repositório`
 
 * Adicione as modificações na área de preparação.
 
-`git add .`
+ `git add .`
 
 * Salve as alterações no repositório local.
 
-`git commit -m conteúdo-teste`
+ `git commit -m conteúdo-teste`
 
 * Envie as alterações para o GitHub.
 
-`git push -u origin main`
+ `git push -u origin main`
 
 *Digite seu usuário e senha do GitHub.
 
