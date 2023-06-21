@@ -10,7 +10,19 @@
 
 *  Crie uma pasta GitHub dentro de Documentos.
 
-* 
+* Abra o Terminal **CRTL+T**
+
+* Gere uma chave SSH usando o comando `ssh-keygen` e pressione **Enter** para aceitar as opções padrão:
+
+* Copie a chave pública SSH, para exibi-la use:
+
+* `cat ~/.ssh/id_rsa.pub`
+
+* Adicione a chave pública SSH no GitHub em **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole a chave em **Chave** e **Salve a chave**
+
+
+
+
 
 * Clique em `Código` selecione HTTPS e Copie o URL do repositório.
 
