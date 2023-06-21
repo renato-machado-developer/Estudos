@@ -19,11 +19,17 @@
 
 * Crie uma pasta GitHub dentro de Documentos.
 
-* Clique em **Código**, **HTTPS**, Copie o URL.
+* No Github clique em **Código**, **HTTPS**, Copie o URL.
+
+`git clone https://github.com/nome-usuário/nome-repositório`
 
 * Adicione a URL do repositório remoto no repositório local:
 
  `git remote add origin URL do Repositório`
+
+* Abra o Visual Studio Code.
+`code .`   
+  * Trabalhe no seu código.
 
 * Adicione as modificações na área de preparação.
 
