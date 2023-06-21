@@ -1,5 +1,5 @@
 # Git pelo Terminal
-* Neste exemplo vou criar um repósitorio *Teste* dentro da pasta *GitHub* dentro de *Documentos* depois uma *branch* com nome *conteúdo-teste*.
+* Neste exemplo vou criar um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos** depois uma **branch** com nome **conteúdo-teste**.
   
 ## Criando um Repositório.
 * Crie a pasta através do site GitHub.
@@ -7,6 +7,10 @@
 * Clique em `Repositórios` depois em `Novo`.
 
 * Coloque o nome do repositório, Descrição, selecione público ou privado, adicione o README.md, escolha a licença MIT e clique em criar repositório.
+
+*  Crie uma pasta GitHub dentro de Documentos.
+
+* 
 
 * Clique em `Código` selecione HTTPS e Copie o URL do repositório.
 
