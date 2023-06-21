@@ -11,7 +11,7 @@
 
 * Para exibir a chave **`cat ~/.ssh/id_rsa.pub`** copie a chave.
 
-* Adicione a chave no GitHub: **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole em **Chave** e **Salve**
+* Adicione a chave no GitHub: **Configurações**, **Chaves SSH e GPG**, **Nova chave SSH"**. Dê um título, cole em **Chave**, **Adicione Chave SSH**
 
 ---
 ## Criando um Repositório (Clone).
