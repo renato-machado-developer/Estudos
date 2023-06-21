@@ -1,14 +1,14 @@
 # Git pelo Terminal
-* Neste exemplo vou criar um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos**, e uma **branch** chamado **conteúdo-teste**.
+* Criarei um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos**, e uma **branch** chamado **conteúdo-teste**.
 
 ## Conectando seu Git com GitHub.
 * Abra o Terminal **CRTL+T**
 
-* Gere uma chave SSH com **`ssh-keygen`** pressione **Enter** para aceitar as opções padrão:
+* Gere uma chave pública SSH **`ssh-keygen`** pressione **Enter** para aceitar as opções padrão:
 
-* Copie a chave pública SSH, para exibir-la **`cat ~/.ssh/id_rsa.pub`**
+* Copie a chave, para exibir-la: **`cat ~/.ssh/id_rsa.pub`**
 
-* Adicione sua chave pública SSH no GitHub em **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole a chave em **Chave** e **Salve a chave**
+* Adicione a chave no GitHub: **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole em **Chave** e **Salve**
   
 ## Criando um Repositório.
 * Crie a pasta através do site GitHub.
@@ -60,9 +60,6 @@
 
 ---
 ## Criando uma ramificação do repositório pelo terminal (Branch).
-* Neste exemplo vou criar uma branch do repósitorio Teste que está na pasta GitHub dentro de Documentos, o nome dessa branch será, conteúdo-teste.
-
----
 * Navegue até a pasta do repositório que será criada a *branch*.
 
 `cd Documentos/GitHub/Teste`
