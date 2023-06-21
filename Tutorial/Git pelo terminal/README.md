@@ -9,7 +9,7 @@
 
 * Coloque uma senha.
 
-* Copie a chave, para exibir-la: **`cat ~/.ssh/id_rsa.pub`**
+* Para exibir a chave **`cat ~/.ssh/id_rsa.pub`** copie a chave.
 
 * Adicione a chave no GitHub: **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole em **Chave** e **Salve**
 
