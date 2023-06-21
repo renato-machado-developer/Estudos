@@ -5,7 +5,7 @@
 ## Conectando seu Git com GitHub.
 * Abra o Terminal **CRTL+T**
 
-* Gere uma chave pública SSH **`ssh-keygen`** pressione **Enter** para aceitar as opções padrão:
+* Gere uma chave pública SSH **`ssh-keygen`** pressione **Enter** para aceitar as opções padrão.
 
 * Copie a chave, para exibir-la: **`cat ~/.ssh/id_rsa.pub`**
 
@@ -27,7 +27,7 @@
 
 * Adicione a URL do repositório remoto no repositório local:
 
- `git remote add origin URL do Repositório`
+ `git remote add origin url-do-repositório`
 
 * Abra o Visual Studio Code.
   
