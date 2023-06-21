@@ -1,6 +1,7 @@
 # Git pelo Terminal
 * Criarei um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos**, e uma **branch** chamado **conteúdo-teste**.
 
+---
 ## Conectando seu Git com GitHub.
 * Abra o Terminal **CRTL+T**
 
@@ -9,7 +10,8 @@
 * Copie a chave, para exibir-la: **`cat ~/.ssh/id_rsa.pub`**
 
 * Adicione a chave no GitHub: **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole em **Chave** e **Salve**
-  
+
+---
 ## Criando um Repositório.
 * Crie a pasta através do site GitHub.
 
@@ -28,28 +30,13 @@
  `git remote add origin URL do Repositório`
 
 * Abra o Visual Studio Code.
-`code .`   
-  * Trabalhe no seu código.
+  
+`code .`
 
-* Adicione as modificações na área de preparação.
+* Trabalhe no seu código.
 
- `git add .`
-
-* Salve as alterações no repositório local.
-
- `git commit -m conteúdo-teste`
-
-* Envie as alterações para o GitHub.
-
- `git push -u origin main`
-
-*Digite seu usuário e senha do GitHub.
-
+---
 ## Enviando suas alterações para o GitHub (Commit).
-* Navegue até a pasta do repositório que será criada a *branch*.
-
-`cd Documentos/GitHub/Teste`
-
 * Adicione as modificações na área de preparação.
 
 `git add .`
@@ -62,7 +49,7 @@
 
 `git push origin conteúdo-teste`
 
-* Insira sua senha.
+*Digite seu usuário e senha do GitHub.
 
 ---
 ## Criando uma ramificação do repositório pelo terminal (Branch).
@@ -89,7 +76,6 @@
 * No canto inferior esquerdo do Visual Studio você vera a branch que acabou de criar.
 
 ---
-
 ## Fundindo a ramificação no repositório principal (Merge).
 
 * Confira se você está na branch que deseja mesclar, estará marcada com um`*`.
@@ -109,5 +95,3 @@
 
 * Envie as alterações mesclandas para o GitHub.
 `git push origin main`
-
-Se a pasta *Teste* estiver dentro de *GitHub* dentro de *Documentos*, vamos colocar`cd`seguido do nome da pasta`/`nome da pasta`/`nome da pasta em ordem crescente, até chegar dentro da pasta do repositório.
