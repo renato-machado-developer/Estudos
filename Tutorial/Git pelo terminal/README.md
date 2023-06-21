@@ -12,7 +12,7 @@
 * Adicione a chave no GitHub: **Configurações**, **Chaves SSH**, **GPG**, **Nova chave SSH"**. Dê um título e cole em **Chave** e **Salve**
 
 ---
-## Criando um Repositório.
+## Criando um Repositório (Clone).
 * Crie a pasta através do site GitHub.
 
 * Clique em **Repositórios**, **Novo**.
