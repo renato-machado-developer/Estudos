@@ -14,10 +14,12 @@
 * Adicione a chave no GitHub: **Configurações**, **Chaves SSH e GPG**, **Nova chave SSH"**. Dê um título, cole em **Chave**, **Adicione Chave SSH**
 
 * Configure seu E-mail.
+  
 `git config --global user.email "email"`
 
-* Configure seu nome de usuario.
-`git config --global user.name "nome-usuario"`
+* Configure seu nome de usuário.
+  
+`git config --global user.name "nome-usuário"`
 
 ---
 ## Criando um Repositório (Clone).
