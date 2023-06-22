@@ -15,11 +15,11 @@
 
 * Configure seu E-mail.
   
-`git config --global user.email **email**`
+`git config --global user.email coloque-email`
 
 * Configure seu nome de usuário.
   
-`git config --global user.name **nome-usuário**`
+`git config --global user.name coloque-usuário`
 
 ---
 ## Criando um Repositório (Clone).
