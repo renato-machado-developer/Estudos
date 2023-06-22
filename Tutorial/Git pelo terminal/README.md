@@ -45,7 +45,7 @@
   
 `code .`
 
-* **Arquivo**, **Abrir Pasta**, Documentos, GitHub, Teste, **Open**
+* **Arquivo**, **Abrir Pasta**, Documentos, GitHub, Teste, **Abrir**.
 
 * Trabalhe no seu código.
 
