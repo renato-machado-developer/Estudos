@@ -3,7 +3,7 @@
 
 ---
 ## Conectando seu Git com GitHub.
-* Abra o Terminal **CRTL+T**
+* Abra o Terminal **CRTL+ALT+T**
 
 * Gere uma chave pública SSH **`ssh-keygen`** pressione **Enter** para aceitar as opções padrão.
 
@@ -25,7 +25,7 @@
 
 * No GitHub clique em **Código**, **HTTPS**, **Copie o URL**.
 
-* Abra o Terminal **CRTL+T**
+* Abra o Terminal **CRTL+ALT+T**
 
 * Navegue até a pasta GitHub.
 
