@@ -39,9 +39,11 @@
 
 `cd Documentos/GitHub`
 
+* Clone.
+
 `git clone https://github.com/nome-usuário/nome-repositório`
 
-*Entre na Pasta.
+* Entre na Pasta.
 
 `cd Documentos/GitHub/Teste`
 
