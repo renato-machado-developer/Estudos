@@ -115,12 +115,12 @@
  * Mescle a ramificação na principal.
 `git merge conteúdo-teste`
 
+* Adicione as modificações na área de preparação.
+`git add .` 
+
 * Confirme as alterações de mesclagem.
 
 `git commit -m fundindo ramificação nome-origem para nome-destino`
-
-* Adicione as modificações na área de preparação.
-`git add .` 
 
 * Confirme as alterações de mesclagem junto com uma mensagem apropriada.
 `git commit -m mesclando a ramificação conteúdo na principal`
