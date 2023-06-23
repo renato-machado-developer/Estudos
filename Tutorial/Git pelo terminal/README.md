@@ -1,9 +1,9 @@
-# Git pelo Terminal
-* Criarei um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos**, e uma **branch** chamado **conteúdo-teste**.
+# Git pelo Terminal.
+* Criarei um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos** e uma **branch** chamado **conteudo-teste**.
 
 ---
 ## Conectando seu Git com GitHub.
-* Abra o Terminal **CRTL+ALT+T**
+* Abra o Terminal **CRTL+ALT+T**.
 
 * Gere uma chave pública SSH **`ssh-keygen`** pressione **Enter** para aceitar as opções padrão.
 
@@ -33,7 +33,7 @@
 
 * No GitHub clique em **Código**, **HTTPS**, **Copie o URL**.
 
-* Abra o Terminal **CRTL+ALT+T**
+* Abra o Terminal **CRTL+ALT+T**.
 
 * Navegue até a pasta **GitHub**.
 
@@ -61,7 +61,7 @@
 
 * **Arquivo**, **Abrir Pasta**, Documentos, GitHub, Teste, **Abrir**.
 
-* Trabalhe no seu código.
+* Trabalhe no código.
 
 ---
 ## Enviando suas alterações para o GitHub (Commit).
@@ -71,33 +71,33 @@
 
 * Salve as alterações no repositório local.
 
-`git commit -m conteúdo-teste`
+`git commit -m conteudo-teste`
 
 * Envie as alterações para o GitHub.
 
 `git push origin main`
 
-* Digite seu usuário e senha do GitHub.
+* Digite seu usuário e senha (SSH) do GitHub.
 
 ---
 ## Criando uma ramificação do repositório pelo terminal (Branch).
-* Navegue até a pasta do repositório que será criada a *branch*.
+* Navegue até a pasta do repositório que será criada a **branch**.
 
 `cd Documentos/GitHub/Teste`
 
-* Crie a branch:
+* Crie a branch.
 
-`git branch conteúdo-teste`
+`git branch conteudo-teste`
 
-* Troque para a branch que você acabou de criar:
+* Troque para a branch que você acabou de criar.
 
 `git checkout conteúdo-teste`
 
-* Envie sua branch para o GitHub:
+* Envie sua branch para o GitHub.
 
-`git push origin conteúdo-teste`
+`git push origin conteudo-teste`
 
-* Abra seu Visual Code Studio:
+* Abra seu Visual Code Studio.
 
 `code .`
 
@@ -105,18 +105,17 @@
 
 ---
 ## Fundindo a ramificação no repositório principal (Merge).
-
 * Confira se você está na branch que deseja mesclar, estará marcada com um`*`
   
 `git branch`
 
-* Caso não esteja na branch correta, mude com
+* Caso não esteja na branch correta, mude com:
    
 `git checkout branch`
 
 * Ramificação que será mesclada.
    
-`git merge conteúdo-teste`
+`git merge conteudo-teste`
 
 * Adicione as modificações na área de preparação.
   
@@ -124,7 +123,7 @@
 
 * Confirme as alterações de mesclagem.
 
-`git commit -m "Mesclando a ramificação conteúdo-teste para main"`
+`git commit -m "Mesclando a ramificação conteudo-teste para main"`
 
 * Envie as alterações mesclandas para o GitHub.
   
