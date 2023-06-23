@@ -110,13 +110,13 @@
   
 `git branch`
 
- * Caso não esteja na branch correta, mude com
+* Caso não esteja na branch correta, mude com
    
 `git checkout branch`
 
- * Ramificação que será mesclada.
+* Receberá a Ramificação.
    
-`git merge conteúdo-teste`
+`git merge main`
 
 * Adicione as modificações na área de preparação.
   
@@ -124,8 +124,8 @@
 
 * Confirme as alterações de mesclagem.
 
-`git commit -m fundindo ramificação nome-origem para nome-destino`
+`git commit -m "Mesclando a ramificação conteúdo-teste para main"`
 
 * Envie as alterações mesclandas para o GitHub.
   
-`git push origin main`
+`git push origin conteúdo-teste`
