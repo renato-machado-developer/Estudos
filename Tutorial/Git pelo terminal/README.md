@@ -114,9 +114,13 @@
    
 `git checkout branch`
 
-* Receberá a Ramificação.
+* Sincroniza o repositório remoto para local.
+
+`git fetch origin`
+
+* Ramificação que será mesclada.
    
-`git merge main`
+`git merge conteúdo-teste`
 
 * Adicione as modificações na área de preparação.
   
@@ -129,9 +133,5 @@
 * Envie as alterações mesclandas para o GitHub.
   
 `git push origin main`
-
-conteúdo-teste
-main
-
 
 
