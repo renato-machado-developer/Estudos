@@ -35,7 +35,7 @@
 
 * Abra o Terminal **CRTL+ALT+T**
 
-* Navegue até a pasta GitHub.
+* Navegue até a pasta **GitHub**.
 
 `cd Documentos/GitHub`
 
