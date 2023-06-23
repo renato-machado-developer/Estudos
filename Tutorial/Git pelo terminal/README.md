@@ -114,10 +114,6 @@
    
 `git checkout branch`
 
-* Sincroniza o repositório remoto para local.
-
-`git fetch origin`
-
 * Ramificação que será mesclada.
    
 `git merge conteúdo-teste`
@@ -133,5 +129,3 @@
 * Envie as alterações mesclandas para o GitHub.
   
 `git push origin main`
-
-
