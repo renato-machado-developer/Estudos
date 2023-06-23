@@ -106,24 +106,26 @@
 ---
 ## Fundindo a ramificação no repositório principal (Merge).
 
-* Confira se você está na branch que deseja mesclar, estará marcada com um`*`.
+* Confira se você está na branch que deseja mesclar, estará marcada com um`*`
+  
 `git branch`
 
- * Caso não esteja na branch correta, mude com:
+ * Caso não esteja na branch correta, mude com
+   
 `git checkout branch`
 
- * Mescle a ramificação na principal.
+ * Ramificação que será mesclada.
+   
 `git merge conteúdo-teste`
 
 * Adicione as modificações na área de preparação.
-`git add .` 
+  
+`git add .`
 
 * Confirme as alterações de mesclagem.
 
 `git commit -m fundindo ramificação nome-origem para nome-destino`
 
-* Confirme as alterações de mesclagem junto com uma mensagem apropriada.
-`git commit -m mesclando a ramificação conteúdo na principal`
-
 * Envie as alterações mesclandas para o GitHub.
+  
 `git push origin main`
