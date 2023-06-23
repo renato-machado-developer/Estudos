@@ -21,6 +21,10 @@
   
 `git config --global user.name coloque-usuário`
 
+* Atualize a URL remota:
+
+`git remote set-url origin git@github.com:nome-usuário/nome-repositório.git`
+
 ---
 ## Criando um Repositório (Clone).
 * Crie a pasta através do site GitHub.
