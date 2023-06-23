@@ -21,10 +21,6 @@
   
 `git config --global user.name coloque-usuário`
 
-* Atualize a URL remota:
-
-`git remote set-url origin git@github.com:nome-usuário/nome-repositório.git`
-
 ---
 ## Criando um Repositório (Clone).
 * Crie a pasta através do site GitHub.
@@ -45,13 +41,17 @@
 
 `git clone https://github.com/nome-usuário/nome-repositório`
 
+*Entre na Pasta.
+
+`cd Documentos/GitHub/Teste`
+
 * Inicie o Repositório.
 
  `git init`
 
-* Adicione a URL do repositório remoto no repositório local:
+* Atualize a URL remota.
 
- `git remote add origin url-do-repositório`
+`git remote set-url origin git@github.com:nome-usuário/nome-repositório.git`
 
 * Abra o Visual Studio Code.
   
@@ -73,7 +73,7 @@
 
 * Envie as alterações para o GitHub.
 
-`git push origin conteúdo-teste`
+`git push origin main`
 
 *Digite seu usuário e senha do GitHub.
 
