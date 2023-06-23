@@ -116,7 +116,7 @@
 
 * Receberá a Ramificação.
    
-`git merge main`
+`git merge conteúdo-teste`
 
 * Adicione as modificações na área de preparação.
   
@@ -128,4 +128,4 @@
 
 * Envie as alterações mesclandas para o GitHub.
   
-`git push origin conteúdo-teste`
+`git push origin main`
