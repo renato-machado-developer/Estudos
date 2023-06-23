@@ -77,7 +77,7 @@
 
 `git push origin main`
 
-*Digite seu usuário e senha do GitHub.
+* Digite seu usuário e senha do GitHub.
 
 ---
 ## Criando uma ramificação do repositório pelo terminal (Branch).
