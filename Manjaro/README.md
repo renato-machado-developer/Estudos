@@ -46,3 +46,8 @@
 `pamac info nome-do-programa`
 
 ---
+## Bibliografia
+---
+[ChatGPT](https://chat.openai.com/auth/login?next=/chat)
+
+---
