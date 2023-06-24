@@ -9,6 +9,6 @@
 * [Unsplash](https://unsplash.com/)
 
 ---
-## Livros
-[MDN Web Docs - Documenta;ao HTML, CSS, JavaScript, HTTP, Web APIs
-, Web extensions, ]()
+## Documentações Oficiais
+[MDN Web Docs - HTML, CSS, JavaScript, HTTP, Web APIs, Web Extensions, Web Technology](https://developer.mozilla.org/en-US/)
+
