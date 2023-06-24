@@ -1,3 +1,7 @@
+Manjaro
+ * Resumo simplista do Sistema Operacional Manjaro e seus Comandos Práticos.
+
+---
 ## Atalhos
 * Mover janelas entre Áreas de Trabalho (1) (2) (3)
 
