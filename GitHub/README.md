@@ -1,4 +1,5 @@
 # Git e GitHub
+* Resumo simplista de Git e GitHub.
 
 ---
 ## Git
