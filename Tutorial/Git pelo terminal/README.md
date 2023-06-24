@@ -2,7 +2,7 @@
 * Criarei um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos** e uma **branch** chamado **conteudo-teste**.
 
 ---
-## Conectando seu Git com GitHub.
+## Conectando seu Git com GitHub
 * Abra o Terminal **CRTL+ALT+T**.
 
 * Gere uma chave pública SSH **`ssh-keygen`** pressione **Enter** para aceitar as opções padrão.
@@ -22,7 +22,7 @@
 `git config --global user.name coloque-usuário`
 
 ---
-## Criando um Repositório (Clone).
+## Criando um Repositório (Clone)
 * Crie a pasta através do site GitHub.
 
 * Clique em **Repositórios**, **Novo**.
@@ -64,7 +64,7 @@
 * Trabalhe no código.
 
 ---
-## Enviando suas alterações para o GitHub (Commit).
+## Enviando suas alterações para o GitHub (Commit)
 * Adicione as modificações na área de preparação.
 
 `git add .`
@@ -80,7 +80,7 @@
 * Digite seu usuário e senha (SSH) do GitHub.
 
 ---
-## Criando uma ramificação do repositório pelo terminal (Branch).
+## Criando uma ramificação do repositório pelo terminal (Branch)
 * Navegue até a pasta do repositório que será criada a **branch**.
 
 `cd Documentos/GitHub/Teste`
@@ -104,7 +104,7 @@
 * No canto inferior esquerdo do Visual Studio você vera a branch que acabou de criar.
 
 ---
-## Fundindo a ramificação no repositório principal (Merge).
+## Fundindo a ramificação no repositório principal (Merge)
 * Confira se você está na branch que deseja mesclar, estará marcada com um`*`
   
 `git branch`
