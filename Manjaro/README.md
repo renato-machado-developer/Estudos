@@ -1,5 +1,5 @@
 ## Atalhos
-* Mover janelas entre Área de Trabalho (1) (2) (3)
+* Mover janelas entre Áreas de Trabalho (1) (2) (3)
 
 `Shift + Super + 1 ou 2 ou 3...`
 
@@ -15,17 +15,13 @@
 
 `Espaço + Direita`
 
-* Mover Janelas entre Área de Trabalho
-
-`Super + Esquerda ou Direita`
-
 * Abrir Configuraçoes da Janela
 
 `CTRL + F10`
 
 ---
 ## Comandos
-* Procura um pacote.
+* Procurar um pacote.
 
 `pamac search nome-do-pacote`
 
@@ -44,3 +40,5 @@
 * Obter as informações do programa instalado.
 
 `pamac info nome-do-programa`
+
+---
