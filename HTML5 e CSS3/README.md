@@ -35,7 +35,7 @@
 
 * Alimentando o crescimento da internet móvel e expansão das conexões banda larga.
 
-* **2020** - Inteligência artificial, blockchain, realidade virtual.
+* **2020** - Inteligência artificial, blockchain, realidade virtual, etc.
 
 * Ainda mostraram sua Relevância.
 
