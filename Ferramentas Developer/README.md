@@ -47,3 +47,5 @@ YouTube: [Curso em Vídeo](https://www.youtube.com/@CursoemVideo)
 Professor: Gustavo Guanabara
 
 Vídeos: [Melhores livros para aprender HTML5 e CSS3](https://www.youtube.com/watch?v=0zLjVhHdOm8&ab_channel=CursoemV%C3%ADdeo)
+
+---
