@@ -27,11 +27,16 @@
 
 ---
 ## Livros
-* **Editora O Reilly -  Mark Pilgrim - HTML5: Up and Running**
+* **Editora O Reilly -  Mark Pilgrim - HTML5: Up and Running.**
 
-* **Editora O Reilly - Eric A.Meyer e Estelle Weyl - CSS The Definitive Guide: Web Layout and Presentation**
+* **Editora O Reilly - Eric A.Meyer e Estelle Weyl - CSS The Definitive Guide: Web Layout and Presentation.**
 
-* **Editora O Reilly - Estelle Weyl - Flexbox in CSS:Understanding CSS Flexible Box Layout**
+* **Editora O Reilly - Estelle Weyl - Flexbox in CSS:Understanding CSS Flexible Box Layout.**
 
-* **Editora O Reilly - Eric A. Meyer - Grid Layout in CSS: Interface Layout for the Web**
+* **Editora O Reilly - Eric A. Meyer - Grid Layout in CSS: Interface Layout for the Web.**
+
+* **Alta Books - Elizabeth Castro e Bruce Hyslop - HTML5 e CSS3: Guia Prático e Visual.**
+
+* **Alta Books - Jon Duckett - HTML e CSS: Projete e Construa Websites.**
+
 * 
