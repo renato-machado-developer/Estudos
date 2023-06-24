@@ -62,3 +62,15 @@
 * Firewalls controlam entrada e saída de dados, aplicando políticas de segurança para evitar atividades maliciosas.
 
 ---
+## Bibliografia
+
+YouTube: [Curso em Vídeo](https://www.youtube.com/@CursoemVideo)
+
+Professor: Gustavo Guanabara
+
+Playlist:
+
+---
+[ChatGPT](https://chat.openai.com/auth/login?next=/chat)
+
+---
