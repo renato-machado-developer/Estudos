@@ -73,8 +73,9 @@ definir uma chave simétrica comum entre os dois computadores que se comunicam r
 * As chaves pública de Alice e Bob.
     
 * O que não a permite descobrir a chave de sessão nem a mensagem aberta.
-      
-### Gerar chaves SSH no Mac e Linux 
+
+---
+## Gerar chaves SSH no Mac e Linux 
 * As chaves SSH são criadas usando uma ferramenta de geração de chaves.
     
 * Os sistemas operacionais OS e Linux têm aplicativos de terminal que vêm com o pacote SSH instalado.
