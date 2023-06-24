@@ -91,7 +91,7 @@
 
 * Troque para a branch que você acabou de criar.
 
-`git checkout conteúdo-teste`
+`git checkout conteudo-teste`
 
 * Envie sua branch para o GitHub.
 
