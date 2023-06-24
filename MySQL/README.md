@@ -1,4 +1,7 @@
 # MySQL
+* Resumo simplista de MySQL
+
+## Principais Características
 * MySQL é um Sistema de gerenciador de banco de dados relacionais. 
     
 * Open Source - (Softwares de código aberto).
