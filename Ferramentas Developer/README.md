@@ -38,3 +38,12 @@ Alta Books|Jon Duckett|**HTML e CSS: Projete e Construa Websites**
 Gustavo Gili|David Dabner|**Curso de Design Gráfico: Princípios e Práticas**
 Olhares|Eva Heller|**A Psicologia das Cores: Como as cores afetam a emoção e a razão**
 Olhares|Ellen Lupton|**Pensar com tipos: Guia para designers, escritores, editores e estudantes**
+
+---
+## Bibliografia
+
+YouTube: [Curso em Vídeo](https://www.youtube.com/@CursoemVideo)
+
+Professor: Gustavo Guanabara
+
+Vídeos: [Melhores livros para aprender HTML5 e CSS3](https://www.youtube.com/watch?v=0zLjVhHdOm8&ab_channel=CursoemV%C3%ADdeo)
