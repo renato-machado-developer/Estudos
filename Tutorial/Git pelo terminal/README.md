@@ -1,4 +1,4 @@
-# Git pelo Terminal.
+# Git pelo Terminal
 * Criarei um repósitorio **Teste** dentro da pasta **GitHub** dentro de **Documentos** e uma **branch** chamado **conteudo-teste**.
 
 ---
