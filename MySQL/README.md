@@ -39,7 +39,7 @@
 * Se comunica com o servidor através da interface.
      
 ---
-## O que é chave SSH.
+## O que é chave SSH
 * Protocolos de rede seguros baseados em TLS (Transport Layer Security).
      
 * Usam criptografia assimétrica durante o início de cada conexão, para
@@ -51,7 +51,7 @@ definir uma chave simétrica comum entre os dois computadores que se comunicam r
     
 *  O acrônimo SSH também é usado para descrever um conjunto de ferramentas usadas para interagir com o protocolo SSH.
       
-### Funcionameto da chave SSH.  
+### Funcionameto da chave SSH
 * Alice sorteia uma chave secreta simétrica (chave de sessão).
     
 * E a cifra com a chave pública de Bob (Para que só ele possa decifrá-la) (Garantindo Cofidencialidade).
