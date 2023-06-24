@@ -128,3 +128,10 @@
 * Envie as alterações mesclandas para o GitHub.
   
 `git push origin main`
+
+---
+## Bibliografia
+---
+[ChatGPT](https://chat.openai.com/auth/login?next=/chat)
+
+---
