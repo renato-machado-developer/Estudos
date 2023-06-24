@@ -1,5 +1,5 @@
 # Git e GitHub
-* Resumo simplista de Git e GitHub.
+Resumo simplista de Git e GitHub.
 
 ---
 ## Git
@@ -105,7 +105,7 @@
 
 ---
 # Linguagem Markdown
-Formata o texto para melhor legibilidade.
+* Formata o texto para melhor legibilidade.
 
 Abaixo estarão as formatações seguindo de como fazê-las. 
 
