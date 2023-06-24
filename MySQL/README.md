@@ -1,9 +1,9 @@
-## Basico
+# MySQL
 * MySQL é um Sistema de gerenciador de banco de dados relacionais. 
     
 * Open Source - (Softwares de código aberto).
       
-* Utilizado para inserir, acessar e gerenciar o conteúdo armazenado em um banco de dados.
+* Utilizado para inserir, acessar e gerenciar o conteúdo armazenado em banco de dados.
       
 * Atraves da linguagem SQL (Structure Query Language) - ( Linguagem de Consulta Estruturada).
       
@@ -13,7 +13,7 @@
     
 ---
 ## Historia 
-* 1994 - Teve seu surgimento atraves da empresa sueca MySQL AB.
+* 1994 - Teve seu surgimento através da empresa sueca MySQL AB.
      
 * 2008 - Foi comprada pela empresa norte-americana Sun Microsystems.
      
@@ -68,9 +68,9 @@ definir uma chave simétrica comum entre os dois computadores que se comunicam r
 ### O que terceiros  podem acessar
 * Se Mallory estiver capturando mensagens no canal de comunicação, ela terá acesso somente a chave privada de Alice.
     
-* A mensagem que está cifrada.(Texto criptografado) (Informação incompreensível para aqueles que não devem ter acesso a ela).
+* A mensagem que está cifrada. (Texto criptografado) (Informação incompreensível para aqueles que não devem ter acesso a ela).
     
-* As chaves publicas de Alice e Bob.
+* As chaves pública de Alice e Bob.
     
 * O que não a permite descobrir a chave de sessão nem a mensagem aberta.
       
@@ -79,7 +79,7 @@ definir uma chave simétrica comum entre os dois computadores que se comunicam r
     
 * Os sistemas operacionais OS e Linux têm aplicativos de terminal que vêm com o pacote SSH instalado.
     
-* Abra o Terminal.
+* Abra o Terminal `CTRL+ALT+T`.
     
 * Execute `ssh-keygen` para iniciar a criação da chave.
   
@@ -87,10 +87,12 @@ definir uma chave simétrica comum entre os dois computadores que se comunicam r
     
 * Vai solicitar a criação de uma frase secreta `Enter passphrase (empty for no passphrase)` adicionando uma camada extra de segurança ao SSH e vai ser necessária sempre que a chave SSH for usada.
     
-* Vai solicitar que confirme a frase secreta Enter same passphrase again.
+* Vai solicitar que confirme a frase secreta `Enter same passphrase again`.
     
 * Se alguém obtivesse acesso ao computador em que as chaves privadas estão armazenadas, teria  acesso a qualquer sistema que use essa chave. Adicionar uma frase secreta vai evitar esse cenário.
     
 * Vai ser gerada uma nova chave SSH no caminho especificado.
     
 * Agora você tem uma chave pública e privada que pode usar para autenticar.
+
+---
