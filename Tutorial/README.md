@@ -1,4 +1,4 @@
-# Tutoriais.
+# Tutoriais
 * Passo a Passo para realização de tarefas.
   
  ---
