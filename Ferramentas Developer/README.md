@@ -27,22 +27,14 @@
 
 ---
 ## Livros
-* **_Editora, Autores, Título._**
-
-* **O'Reilly -  Mark Pilgrim - HTML5: Up and Running.**
-
-* **O'Reilly - Eric A.Meyer e Estelle Weyl - CSS The Definitive Guide: Web Layout and Presentation.**
-
-* **O'Reilly - Estelle Weyl - Flexbox in CSS:Understanding CSS Flexible Box Layout.**
-
-* **O'Reilly - Eric A. Meyer - Grid Layout in CSS: Interface Layout for the Web.**
-
-* **Alta Books - Elizabeth Castro e Bruce Hyslop - HTML5 e CSS3: Guia Prático e Visual.**
-
-* **Alta Books - Jon Duckett - HTML e CSS: Projete e Construa Websites.**
-
-* **Gustavo Gili - David Dabner - Curso de Design Gráfico: Princípios e Práticas.**
-
-* **Olhares - Eva Heller - A Psicologia das Cores: Como as cores afetam a emoção e a razão.**
-
-* **Olhares - Ellen Lupton - Pensar com tipos: Guia para designers, escritores, editores e estudantes.**  
+Editora|Autores|Título
+---|---|---
+O'Reilly|Mark Pilgrim|**HTML5: Up and Running**
+O'Reilly|Eric A.Meyer e Estelle Weyl|**CSS The Definitive Guide: Web Layout and Presentation**
+O'Reilly|Estelle Weyl|**Flexbox in CSS: Understanding CSS Flexible Box Layout**
+O'Reilly|Eric A. Meyer|**Grid Layout in CSS: Interface Layout for the Web**
+Alta Books|Elizabeth Castro e Bruce Hyslop|**HTML5 e CSS3: Guia Prático e Visual**
+Alta Books|Jon Duckett|**HTML e CSS: Projete e Construa Websites**
+Gustavo Gili|David Dabner|**Curso de Design Gráfico: Princípios e Práticas**
+Olhares|Eva Heller|**A Psicologia das Cores: Como as cores afetam a emoção e a razão**
+Olhares|Ellen Lupton|**Pensar com tipos: Guia para designers, escritores, editores e estudantes**
