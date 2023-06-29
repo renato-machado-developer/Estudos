@@ -117,3 +117,5 @@ Smartphone.
 Fonte Queimada.
 
 PC Concerto.
+
+PC não funcionou.
