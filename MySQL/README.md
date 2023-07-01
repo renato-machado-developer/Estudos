@@ -112,12 +112,3 @@ Playlist:
 [ChatGPT](https://chat.openai.com/auth/login?next=/chat)
 
 ---
-Smartphone.
-
-Fonte Queimada.
-
-PC Concerto.
-
-PC não funcionou.
-
-PC Arrumado.
