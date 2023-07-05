@@ -68,7 +68,7 @@ YouTube: [Curso em Vídeo](https://www.youtube.com/@CursoemVideo)
 
 Professor: Gustavo Guanabara
 
-Playlist:
+Playlist: [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=1)
 
 ---
 [ChatGPT](https://chat.openai.com/auth/login?next=/chat)
