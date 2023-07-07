@@ -76,7 +76,7 @@
   * **renato-machado** caminho
 
 ---
-## Hospedagem**
+## Hospedagem
  * Serviço de armazenamento com recursos de servidor tornando os sites acessíveis na Internet.
 
 ---
@@ -84,14 +84,34 @@
 * **Domínio**
   * Nome único.
   * TLDs Adequado.
-  * Pago Anualmente R$ 5 – R$ 52 + renovação R$ 50 – R$ 200
+  * Pago Anualmente R$ 5 – R$ 50 + renovação R$ 50 – R$ 200
 
 * **Hospedagem**
   * Disponibiliza espaço de armazenamento e Recursos Web.
   * Pago Mensalmente R$ 7 – R$ 800
 
 ---
+## HTML5
+* Linguagem de marcação usada para estruturar e apresentar conteúdo na World Wide Web.
+
+---
+# CSS 
+* Usada para criar o estilo visual de documentos HTML e XML.
+
+---
+# JavaScript
+* Linguagem de programação interpretada de alto nível, usada para adicionar interatividade e comportamento dinâmico a sites.
+
+* Executado diretamente no navegador Web no lado do cliente.
+
+* Considerado linguagem de script porque não requer compilação explícita antes da execução.
+
+---
 ## Glossário
+
+* **HTML**  Hypertext Markup Language (Linguagem de Marcação de Hipertexto).
+
+* **CSS** Cascading Style Sheets (Folhas de Estilo em Cascata).
 
 * **ARPAnet** Advanced Research Projects Agency Network (Rede da Agência de Pesquisas em Projetos Avançados).
 
@@ -128,6 +148,11 @@
 * **SLD** Second Level Domain (Domínio de Segundo Nível).
 
 * **SLD** é a parte do nome de domínio.
+
+* **Linguagem de programação de Alto Nível** Projetada para fácil leitura, escrita e entendimento.
+
+* **Linguagem de programação Interpretada** Executadas por intérprete que lê e executa o código linha por linha, traduzindo-o em instruções de máquina em tempo real.
+
 
 ---
 ## Bibliografia
