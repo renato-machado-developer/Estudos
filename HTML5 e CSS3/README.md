@@ -55,25 +55,26 @@
 
 * Dados transmitidos são divididos em unidades menores chamadas pacotes junto com informações do IP de origem e destino.
 
-* Roteadores e switches examinam o IP dos pacotes e com algoritmos definem o melhor caminho para os dados.
+* Roteadores e Switches examinam o IP dos pacotes e com algoritmos definem o melhor caminho para os dados.
 
 * Quando os pacotes chegam, são reagrupados pelo dispositivo receptor, se o pacote for corrompido, poderá ser retransmitido.
 
 * Firewalls controlam entrada e saída de dados, aplicando políticas de segurança para evitar atividades maliciosas.
 
 ---
-O que é um domínio
+## O que é um domínio
 * Endereço legível por humanos.
 
 * Representa uma entidade exclusiva na World Wide Web.
-
-* Faz parte do DNS.
 
 * No nome de domínio "www.example.com":
   * "www" indica um servidor web, mas não é tecnicamente parte do próprio domínio.
   *  "exemplo" é o SLD, representa uma empresa ou organização.
   *  ".com" é o TLD, indicando uma entidade comercial.
 
+## O que é preciso para ter um site.
+* **Domínio**
+* **Hospedagem** serviço de armazenamento e recursos de servidor para tornar os sites acessíveis na Internet. 
 ---
 ## Glossário
 
@@ -83,13 +84,23 @@ O que é um domínio
 
 * **DNS** diretório que traduz nomes de domínios para IP's correspondentes.
 
-* **TCP/IP** Transmission Control Protocol/Internet Protocol. (Protocolo de Controle de Transmissão/Protocolo de Internet).
+* **TCP** Transmission Control Protocol (Protocolo de Controle de Transmissão).
+
+* **TCP** faz comunicação confiável, controle de fluxo, recuperação de erros, garantindo integridade e entrega dos dados.
+
+* **IP** Internet Protocol (Protocolo de Internet).
+
+* **IP** endereça e roteá pacotes de dados pela Internet.
 
 * **TCP/IP** conjunto de protocolos que formam a comunicação e transferência de dados na Internet.
 
  * **WWW** World Wide Web (Rede Mundial de Computadores).
 
  * **WWW** sistema de documentos em hipermídia interligados e executados na Internet.
+
+ * **Blockchain** mecanismo de banco de dados que permite o compartilhamento transparente de informações na rede.
+
+* **Firewalls** examina pacotes de dados que passam pela rede e tomam decisões sobre permitir ou bloquear com base em regras predefinidas.
 
 ---
 ## Bibliografia
