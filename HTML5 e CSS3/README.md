@@ -62,19 +62,34 @@
 * Firewalls controlam entrada e saída de dados, aplicando políticas de segurança para evitar atividades maliciosas.
 
 ---
-## O que é um domínio
+## Domínio
+* Identifica e localiza recursos, como sites, servidores de e-mail e outros serviços online.
+
 * Endereço legível por humanos.
 
 * Representa uma entidade exclusiva na World Wide Web.
 
-* No nome de domínio "www.example.com":
-  * "www" indica um servidor web, mas não é tecnicamente parte do próprio domínio.
-  *  "exemplo" é o SLD, representa uma empresa ou organização.
-  *  ".com" é o TLD, indicando uma entidade comercial.
+* Na URL "www.example.com/renato-machado":
+  * **www** sub-domínio, não é parte do próprio domínio.
+  * **exemplo** SLD, nome do domínio.
+  * **.com** TLD, extensão do domínio.
+  * **renato-machado** caminho
 
-## O que é preciso para ter um site.
+---
+## Hospedagem**
+ * Serviço de armazenamento com recursos de servidor tornando os sites acessíveis na Internet.
+
+---
+## Requisitos e Custos do Site
 * **Domínio**
-* **Hospedagem** serviço de armazenamento e recursos de servidor para tornar os sites acessíveis na Internet. 
+  * Nome único.
+  * TLDs Adequado.
+  * Pago Anualmente R$ 5 – R$ 52 + renovação R$ 50 – R$ 200
+
+* **Hospedagem**
+  * Disponibiliza espaço de armazenamento e Recursos Web.
+  * Pago Mensalmente R$ 7 – R$ 800
+
 ---
 ## Glossário
 
@@ -100,7 +115,19 @@
 
  * **Blockchain** mecanismo de banco de dados que permite o compartilhamento transparente de informações na rede.
 
-* **Firewalls** examina pacotes de dados que passam pela rede e tomam decisões sobre permitir ou bloquear com base em regras predefinidas.
+* **Firewalls** examina pacotes de dados que passam pela rede e decide permitir ou bloquear com base em regras predefinidas.
+
+* **URL** Uniform Resource Locator (Localizador Uniforme de Recursos).
+
+* **URL** Endereço web, texto digitado na barra do navegador para acessar determinada página ou serviço.
+
+* **TLD** Top-Level Domain (Domínio de Nível Superior).
+
+* **TLD** é a extensão do domínio.
+
+* **SLD** Second Level Domain (Domínio de Segundo Nível).
+
+* **SLD** é a parte do nome de domínio.
 
 ---
 ## Bibliografia
