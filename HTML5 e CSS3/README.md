@@ -65,19 +65,31 @@
 O que é um domínio
 * Endereço legível por humanos.
 
-* Representa um local ou entidade exclusiva na World Wide Web.
+* Representa uma entidade exclusiva na World Wide Web.
 
 * Faz parte do DNS.
 
 * No nome de domínio "www.example.com":
-  * "www" usado para indicar um servidor web, mas não é tecnicamente parte do próprio domínio.
+  * "www" indica um servidor web, mas não é tecnicamente parte do próprio domínio.
   *  "exemplo" é o SLD, representa uma empresa ou organização.
   *  ".com" é o TLD, indicando uma entidade comercial.
 
 ---
 ## Glossário
-* **DNS** Domain Name System (Sistema de nomes de domínio)
+
+* **ARPAnet** Advanced Research Projects Agency Network (Rede da Agência de Pesquisas em Projetos Avançados).
+
+* **DNS** Domain Name System (Sistema de nomes de domínio).
+
 * **DNS** diretório que traduz nomes de domínios para IP's correspondentes.
+
+* **TCP/IP** Transmission Control Protocol/Internet Protocol. (Protocolo de Controle de Transmissão/Protocolo de Internet).
+
+* **TCP/IP** conjunto de protocolos que formam a comunicação e transferência de dados na Internet.
+
+ * **WWW** World Wide Web (Rede Mundial de Computadores).
+
+ * **WWW** sistema de documentos em hipermídia interligados e executados na Internet.
 
 ---
 ## Bibliografia
