@@ -153,7 +153,6 @@
 
 * **Linguagem de programação Interpretada** Executadas por intérprete que lê e executa o código linha por linha, traduzindo-o em instruções de máquina em tempo real.
 
-
 ---
 ## Bibliografia
 
