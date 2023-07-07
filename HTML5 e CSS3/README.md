@@ -62,6 +62,24 @@
 * Firewalls controlam entrada e saída de dados, aplicando políticas de segurança para evitar atividades maliciosas.
 
 ---
+O que é um domínio
+* Endereço legível por humanos.
+
+* Representa um local ou entidade exclusiva na World Wide Web.
+
+* Faz parte do DNS.
+
+* No nome de domínio "www.example.com":
+  * "www" usado para indicar um servidor web, mas não é tecnicamente parte do próprio domínio.
+  *  "exemplo" é o SLD, representa uma empresa ou organização.
+  *  ".com" é o TLD, indicando uma entidade comercial.
+
+---
+## Glossário
+* **DNS** Domain Name System (Sistema de nomes de domínio)
+* **DNS** diretório que traduz nomes de domínios para IP's correspondentes.
+
+---
 ## Bibliografia
 
 YouTube: [Curso em Vídeo](https://www.youtube.com/@CursoemVideo)
@@ -69,6 +87,9 @@ YouTube: [Curso em Vídeo](https://www.youtube.com/@CursoemVideo)
 Professor: Gustavo Guanabara
 
 Playlist: [Curso completo e atual de HTML5 e CSS3 - Módulo 1 de 5](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=1)
+
+---
+YouTube: [How Does the Internet Work ?](https://www.youtube.com/watch?v=TNQsmPf24go)
 
 ---
 [ChatGPT](https://chat.openai.com/auth/login?next=/chat)
