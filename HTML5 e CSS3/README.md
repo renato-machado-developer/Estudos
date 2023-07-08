@@ -132,6 +132,7 @@
 CTRL+,|Editor:Word Wrap|on
 
 * **Tamanho de Fonte**
+`CTRL+,` `Editor:Word Wrap` `on`
 
 1|2|3
 ---|---|---
