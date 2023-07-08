@@ -131,11 +131,23 @@
 ---|---|---
 CTRL+,|Editor:Word Wrap|on
 
-* **Tamanho de Fonte** "CTRL+," "Editor:Font Size" "20"
+* **Tamanho de Fonte**
 
-* **Tema** "CTRL+," "Workbench:Color Theme" "Dark Modern"
+1|2|3
+---|---|---
+CTRL+,|Editor:Font Size|20
 
-* **Salvar Automático** "File" "Auto Save"
+* **Tema**
+
+1|2|3
+---|---|---
+CTRL+,|Workbench:Color Theme|Dark Modern
+
+* **Salvar Automático**
+
+1|2
+---|---
+File|Auto Save
 
 ---
 ## Código Base HTML
