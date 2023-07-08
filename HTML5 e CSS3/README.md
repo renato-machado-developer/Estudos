@@ -157,6 +157,22 @@
 ```
 * `<!DOCTYPE html>` Diz que é um documento em HTML5.
 
+* `<html` `lang="en">` Indica o idioma do site.
+
+* `<html> </html>` Todo o Site.
+
+* `<head> </head>` Toda a configuração do site
+
+* `<body> </body>` Todo o conteúdo do site. 
+
+* `<meta charset="UTF-8">` Habilita o conjunto de caracteres com acentuação.
+
+* `<meta name="viewport" content="width=device-width, initial-scale=1.0">` Diz que o site vai ocupar todo o espaço da tela.
+
+* `<title>Document</title>` Título do site.
+
+*
+
 ---
 ## Glossário
 
