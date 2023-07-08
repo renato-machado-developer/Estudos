@@ -126,8 +126,9 @@
 ## Configuração Visual Studio Code
 
 * **Quebra de linha** 
-CTRL+,|Editor:Word Wrap|on
+1|2|4
 ---|---|---
+CTRL+,|Editor:Word Wrap|on
 
 * **Tamanho de Fonte** "CTRL+," "Editor:Font Size" "20"
 
