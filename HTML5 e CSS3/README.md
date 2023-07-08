@@ -125,8 +125,9 @@
 ---
 ## Configuração Visual Studio Code
 
-* **Quebra de linha** 
-1|2|4
+* **Quebra de linha**
+
+1|2|3
 ---|---|---
 CTRL+,|Editor:Word Wrap|on
 
