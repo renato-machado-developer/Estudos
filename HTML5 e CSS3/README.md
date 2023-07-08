@@ -125,7 +125,9 @@
 ---
 ## Configuração Visual Studio Code
 
-* **Quebra de linha** "CTRL+," "Editor:Word Wrap" "on"
+* **Quebra de linha** 
+CTRL+,|Editor:Word Wrap|on
+---|---|---
 
 * **Tamanho de Fonte** "CTRL+," "Editor:Font Size" "20"
 
@@ -148,6 +150,7 @@
 </body>
 </html>
 ```
+* `<!DOCTYPE html>` Diz que é um documento em HTML5.
 
 ---
 ## Glossário
