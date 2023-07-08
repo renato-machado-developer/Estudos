@@ -75,11 +75,9 @@
   * **.com** TLD, extensão do domínio.
   * **renato-machado** caminho
 
----
 ## Hospedagem
  * Serviço de armazenamento com recursos de servidor tornando os sites acessíveis na Internet.
 
----
 ## Requisitos e Custos do Site
 * **Domínio**
   * Nome único.
@@ -94,12 +92,10 @@
 ## HTML5
 * Linguagem de marcação usada para estruturar e apresentar conteúdo na World Wide Web.
 
----
-# CSS 
+## CSS 
 * Usada para criar o estilo visual de documentos HTML e XML.
 
----
-# JavaScript
+## JavaScript
 * Linguagem de programação interpretada de alto nível, adiciona interatividade e comportamento dinâmico a sites.
 
 * Executado diretamente no navegador Web no lado do cliente.
@@ -126,8 +122,8 @@
 
 * GitHub Desktop
 
-
-# Configuração Visual Studio Code
+---
+## Configuração Visual Studio Code
 
 * **Quebra de linha** "CTRL+," "Editor:Word Wrap" "on"
 
@@ -137,8 +133,21 @@
 
 * **Salvar Automático** "File" "Auto Save"
 
+---
+## Código Base HTML
+'''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 
-
+</body>
+</html>
+'''
 
 ---
 ## Glossário
