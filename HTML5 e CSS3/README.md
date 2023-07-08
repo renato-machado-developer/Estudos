@@ -124,31 +124,21 @@
 
 ---
 ## Configuração Visual Studio Code
-
 * **Quebra de linha**
 
-1|2|3
----|---|---
-CTRL+,|Editor:Word Wrap|on
-
-* **Tamanho de Fonte**
 `CTRL+,` `Editor:Word Wrap` `on`
 
-1|2|3
----|---|---
-CTRL+,|Editor:Font Size|20
+* **Tamanho de Fonte**
+
+`CTRL+,` `Editor:Font Size` `20`
 
 * **Tema**
 
-1|2|3
----|---|---
-CTRL+,|Workbench:Color Theme|Dark Modern
+`CTRL+,` `Workbench:Color Theme` `Dark Modern`
 
 * **Salvar Automático**
 
-1|2
----|---
-File|Auto Save
+`File` `Auto Save`
 
 ---
 ## Código Base HTML
