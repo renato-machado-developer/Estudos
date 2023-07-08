@@ -100,14 +100,54 @@
 
 ---
 # JavaScript
-* Linguagem de programação interpretada de alto nível, usada para adicionar interatividade e comportamento dinâmico a sites.
+* Linguagem de programação interpretada de alto nível, adiciona interatividade e comportamento dinâmico a sites.
 
 * Executado diretamente no navegador Web no lado do cliente.
 
 * Considerado linguagem de script porque não requer compilação explícita antes da execução.
 
 ---
+## Front-End
+* Trabalha com Client-Side, iterface do usuário, elementos visuais e interativos da pagina web.
+
+## Back-End
+* Trabalha com Server Side, armazena dados, lógica de negócios e comunicação com outros sistemas.
+
+* Processa solicitações do front-end, interage com bancos de dados e gerar conteúdo dinâmico de volta ao front-end.
+
+## Full Stack
+* Trabalha com desenvolvimento front-end e back-end.
+
+---
+## Ferramentas
+* Google Crome
+
+* Visual Studio Code
+
+* GitHub Desktop
+
+
+# Configuração Visual Studio Code
+
+* **Quebra de linha** "CTRL+," "Editor:Word Wrap" "on"
+
+* **Tamanho de Fonte** "CTRL+," "Editor:Font Size" "20"
+
+* **Tema** "CTRL+," "Workbench:Color Theme" "Dark Modern"
+
+* **Salvar Automático** "File" "Auto Save"
+
+
+
+
+---
 ## Glossário
+
+* **Client-Side** Lado do Cliente  
+
+* **Server-Side** Lado do Servidor
+
+* **Full-Stack** Pilha Completa
 
 * **HTML**  Hypertext Markup Language (Linguagem de Marcação de Hipertexto).
 
@@ -117,7 +157,7 @@
 
 * **DNS** Domain Name System (Sistema de nomes de domínio).
 
-* **DNS** diretório que traduz nomes de domínios para IP's correspondentes.
+* **DNS** Diretório que traduz nomes de domínios para IP's correspondentes.
 
 * **TCP** Transmission Control Protocol (Protocolo de Controle de Transmissão).
 
