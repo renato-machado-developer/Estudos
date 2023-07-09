@@ -76,7 +76,7 @@
   * **renato-machado** caminho
 
 ---
-## Hospedagem**
+## Hospedagem
  * Serviço de armazenamento com recursos de servidor tornando os sites acessíveis na Internet.
 
 ---
@@ -84,50 +84,167 @@
 * **Domínio**
   * Nome único.
   * TLDs Adequado.
-  * Pago Anualmente R$ 5 – R$ 52 + renovação R$ 50 – R$ 200
+  * Pago Anualmente R$ 5 – R$ 50 + renovação R$ 50 – R$ 200
 
 * **Hospedagem**
   * Disponibiliza espaço de armazenamento e Recursos Web.
   * Pago Mensalmente R$ 7 – R$ 800
 
 ---
+## HTML5
+* Linguagem de marcação usada para estruturar e apresentar conteúdo na World Wide Web.
+
+---
+## CSS 
+* Usada para criar o estilo visual de documentos HTML e XML.
+
+---
+## JavaScript
+* Linguagem de programação interpretada de alto nível, adiciona interatividade e comportamento dinâmico a sites.
+
+* Executado diretamente no navegador Web no lado do cliente.
+
+* Considerado linguagem de script porque não requer compilação explícita antes da execução.
+
+---
+## Front-End
+* Trabalha com Client-Side, iterface do usuário, elementos visuais e interativos da pagina web.
+
+---
+## Back-End
+* Trabalha com Server-Side, armazena dados, lógica de negócios e comunicação com outros sistemas.
+
+* Processa solicitações do front-end, interage com bancos de dados e gerar conteúdo dinâmico de volta ao front-end.
+
+---
+## Full Stack
+* Trabalha com desenvolvimento front-end e back-end.
+
+---
+## Ferramentas
+* Google Crome
+
+* Visual Studio Code
+
+* GitHub Desktop
+
+---
+## Configuração Visual Studio Code
+* **Quebra de linha**
+
+`CTRL+,` `Editor:Word Wrap` `on`
+
+* **Tamanho de Fonte**
+
+`CTRL+,` `Editor:Font Size` `20`
+
+* **Tema**
+
+`CTRL+,` `Workbench:Color Theme` `Dark Modern`
+
+* **Salvar Automático**
+
+`File` `Auto Save`
+
+---
+# Códigos HTML
+* Conjunto de todos os códigos aprendidos.
+
+---
+## Código base
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+```
+
+* ## Códigos Individuais
+
+* `<!DOCTYPE html>` Diz que é um documento em HTML5.
+
+* `<html` `lang="en">` Indica o idioma do site.
+
+* `<html> </html>` Todo o Site.
+
+* `<head> </head>` Toda a configuração do site
+
+* `<body> </body>` Todo o conteúdo do site. 
+
+* `<meta charset="UTF-8">` Habilita o conjunto de caracteres com acentuação.
+
+* `<meta name="viewport" content="width=device-width, initial-scale=1.0">` Diz que o site vai ocupar todo o espaço da tela.
+
+* `<title>Document</title>` Título do site.
+
+<<<<<<< Updated upstream
+* `<h1> </h1>` Título do artigo.
+
+* 
+=======
+* `<h1> </h1>` Título do conteúdo.
+>>>>>>> Stashed changes
+
+---
 ## Glossário
 
 * **ARPAnet** Advanced Research Projects Agency Network (Rede da Agência de Pesquisas em Projetos Avançados).
 
+* **Blockchain** mecanismo de banco de dados que permite o compartilhamento transparente de informações na rede.
+
+* **CSS** Cascading Style Sheets (Folhas de Estilo em Cascata).
+
+* **Client-Side** Lado do Cliente  
+
 * **DNS** Domain Name System (Sistema de nomes de domínio).
 
-* **DNS** diretório que traduz nomes de domínios para IP's correspondentes.
+* **DNS** Diretório que traduz nomes de domínios para IP's correspondentes.
 
-* **TCP** Transmission Control Protocol (Protocolo de Controle de Transmissão).
+* **Firewalls** examina pacotes de dados que passam pela rede e decide permitir ou bloquear com base em regras predefinidas.
 
-* **TCP** faz comunicação confiável, controle de fluxo, recuperação de erros, garantindo integridade e entrega dos dados.
+* **Full-Stack** Pilha Completa.
+
+* **HTML**  Hypertext Markup Language (Linguagem de Marcação de Hipertexto).
 
 * **IP** Internet Protocol (Protocolo de Internet).
 
 * **IP** endereça e roteá pacotes de dados pela Internet.
 
+* **Linguagem de programação de Alto Nível** Projetada para fácil leitura, escrita e entendimento.
+
+* **Linguagem de programação Interpretada** Lê e executa o código linha por linha, traduzindo-o em instruções de máquina em tempo real.
+
+* **Server-Side** Lado do Servidor
+
+* **SLD** Second Level Domain (Domínio de Segundo Nível).
+
+* **SLD** é a parte do nome de domínio.
+
+* **TCP** Transmission Control Protocol (Protocolo de Controle de Transmissão).
+
+* **TCP** faz comunicação confiável, controle de fluxo, recuperação de erros, garantindo integridade e entrega dos dados.
+
 * **TCP/IP** conjunto de protocolos que formam a comunicação e transferência de dados na Internet.
-
- * **WWW** World Wide Web (Rede Mundial de Computadores).
-
- * **WWW** sistema de documentos em hipermídia interligados e executados na Internet.
-
- * **Blockchain** mecanismo de banco de dados que permite o compartilhamento transparente de informações na rede.
-
-* **Firewalls** examina pacotes de dados que passam pela rede e decide permitir ou bloquear com base em regras predefinidas.
-
-* **URL** Uniform Resource Locator (Localizador Uniforme de Recursos).
-
-* **URL** Endereço web, texto digitado na barra do navegador para acessar determinada página ou serviço.
 
 * **TLD** Top-Level Domain (Domínio de Nível Superior).
 
 * **TLD** é a extensão do domínio.
 
-* **SLD** Second Level Domain (Domínio de Segundo Nível).
+* **URL** Uniform Resource Locator (Localizador Uniforme de Recursos).
 
-* **SLD** é a parte do nome de domínio.
+* **URL** Endereço web, texto digitado na barra do navegador para acessar determinada página ou serviço.
+
+* **WWW** World Wide Web (Rede Mundial de Computadores).
+
+* **WWW** sistema de documentos em hipermídia interligados e executados na Internet.
 
 ---
 ## Bibliografia
