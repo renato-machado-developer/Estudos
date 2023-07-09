@@ -185,13 +185,46 @@
 
 * `<title>Document</title>` Título do site.
 
-<<<<<<< Updated upstream
 * `<h1> </h1>` Título do artigo.
 
-* 
-=======
-* `<h1> </h1>` Título do conteúdo.
->>>>>>> Stashed changes
+* `<p> </p>` Parágrafo.
+
+* `<hr>` Linha Horizontal.
+
+* `<br>` Quebra de linha.
+
+* `&lt;` Mostra a tag <.
+
+* `&gt;` Mostra a tag >.
+
+* `<!--Texto-->` Transforma em comentário.
+
+---
+## Símbolos e Emoticons
+* `&reg;` Marca registrada.
+
+* `&copy;` Direito Autoral.
+ 
+* `&trade;` Marca registrada em inglês.
+ 
+* `&delta;` Delta Minúsculo.
+ 
+* `&Delta;` Delta Maiúsculo.
+ 
+* `&uparrow;` Seta para cima.
+ 
+* `&uarr;` Seta para cima simplificado.
+
+* `&#x` `00000` Coloca um Emoji.
+
+### Moeda
+ `&euro;` Euro.
+
+ `&pound;` Libra.
+
+ `&yen;` Japonês.
+
+ `&cent;` Americano.
 
 ---
 ## Glossário
