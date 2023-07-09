@@ -86,7 +86,6 @@
   * TLDs Adequado.
   * Pago Anualmente R$ 5 – R$ 50 + renovação R$ 50 – R$ 200
 
----
 * **Hospedagem**
   * Disponibiliza espaço de armazenamento e Recursos Web.
   * Pago Mensalmente R$ 7 – R$ 800
@@ -113,7 +112,7 @@
 
 ---
 ## Back-End
-* Trabalha com Server Side, armazena dados, lógica de negócios e comunicação com outros sistemas.
+* Trabalha com Server-Side, armazena dados, lógica de negócios e comunicação com outros sistemas.
 
 * Processa solicitações do front-end, interage com bancos de dados e gerar conteúdo dinâmico de volta ao front-end.
 
@@ -148,8 +147,11 @@
 `File` `Auto Save`
 
 ---
-## Códigos HTML
-* Código base
+# Códigos HTML
+* Conjunto de todos os códigos aprendidos.
+
+---
+## Código base
 
 ```
 <!DOCTYPE html>
@@ -165,7 +167,7 @@
 </html>
 ```
 
-* Códigos Individuais
+* ## Códigos Individuais
 
 * `<!DOCTYPE html>` Diz que é um documento em HTML5.
 
@@ -183,9 +185,13 @@
 
 * `<title>Document</title>` Título do site.
 
+<<<<<<< Updated upstream
 * `<h1> </h1>` Título do artigo.
 
 * 
+=======
+* `<h1> </h1>` Título do conteúdo.
+>>>>>>> Stashed changes
 
 ---
 ## Glossário
@@ -214,7 +220,7 @@
 
 * **Linguagem de programação de Alto Nível** Projetada para fácil leitura, escrita e entendimento.
 
-* **Linguagem de programação Interpretada** Executadas por intérprete que lê e executa o código linha por linha, traduzindo-o em instruções de máquina em tempo real.
+* **Linguagem de programação Interpretada** Lê e executa o código linha por linha, traduzindo-o em instruções de máquina em tempo real.
 
 * **Server-Side** Lado do Servidor
 
