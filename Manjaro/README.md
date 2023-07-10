@@ -1,5 +1,5 @@
 # Manjaro
- * Resumo simplista do Sistema Operacional Manjaro e seus Comandos Práticos.
+ * Resumo simplista do Sistema Operacional Manjaro.
 
 ---
 ## Atalhos
@@ -47,6 +47,7 @@
 
 ---
 ## Bibliografia
+
 ---
 [ChatGPT](https://chat.openai.com/auth/login?next=/chat)
 

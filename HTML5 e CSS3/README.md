@@ -1,5 +1,5 @@
 # HTML5 e CSS3
- * Resumo simplista de HTML5 e CSS3.
+ * Resumo simplista de desenvolvimento web com HTML5 e CSS3.
 
 ---
 ## História da Internet
@@ -83,7 +83,7 @@
 ## Requisitos e Custos do Site
 * **Domínio**
   * Nome único.
-  * TLDs Adequado.
+  * TLD Adequado.
   * Pago Anualmente R$ 5 – R$ 50 + renovação R$ 50 – R$ 200
 
 * **Hospedagem**
@@ -119,10 +119,6 @@
 ---
 ## Full Stack
 * Trabalha com desenvolvimento front-end e back-end.
-
----
-# Direitos Autorais
-* **Imagem** Marcadas para reutilização com modificação. (imagem livre para qualquer uso). 
 
 ---
 ## Ferramentas

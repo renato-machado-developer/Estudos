@@ -11,7 +11,10 @@
 * 1996 - Lançamento oficial.
 
 ---
+## Direitos Autorais
+* **Imagem** Marcadas para reutilização com modificação. (imagem livre para qualquer uso). 
 
+---
 ## Formatos de Imagem
 * JPEG (JPG)
   * Criado em 1983.
@@ -30,3 +33,14 @@
 ---
 ## Glossário
   * **W3C** WWW (World Wide Web) (Rede Mundial de Computadores).
+
+---
+## Bibliografia
+
+YouTube: 
+
+Professor: 
+
+Vídeo:
+
+---

@@ -1,5 +1,5 @@
 # MySQL
-* Resumo simplista de MySQL.
+* Resumo simplista de banco de dados com MySQL.
 
 ## Principais Características
 * MySQL é um Sistema de gerenciador de banco de dados relacionais. 

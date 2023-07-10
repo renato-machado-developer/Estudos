@@ -12,11 +12,7 @@ Este Repositório é um registro dos meus estudos, está formado por tópicos e 
 
 [HTML e CSS](https://github.com/renato-machado-developer/Estudos/tree/main/HTML5%20e%20CSS3)
 
-[Lógica de Programação com JavaScript]
-
 [JavaScript]
-
-[ReactJS]
 
 [WordPress]
 

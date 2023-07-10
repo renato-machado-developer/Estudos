@@ -1,5 +1,5 @@
 # Git e GitHub
-* Resumo simplista de Git e GitHub.
+* Resumo simplista de versionamento com Git e GitHub.
 
 ---
 ## Git
@@ -233,7 +233,7 @@ Crase | Trecho | Crase
 ---
 **Colocando Imagem**
 
-![octo](https://github.com/renato-machado-developer/Estudos/assets/125524267/bbbbf854-bfe0-4f63-9f3b-932ef7f2b60d)
+![octo]()
 
 `![Descrição Imagem](URL)`
 

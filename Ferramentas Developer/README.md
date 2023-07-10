@@ -1,5 +1,5 @@
 # Ferramentas Developer
-* Sites, Livros e Ferramentas usados diariamente que auxiliam no desenvolvimento.
+* Sites, Livros e Ferramentas usados diariamente que auxiliam no desenvolvimento web.
 
 ---
 ## Banco de Imagens
