@@ -10,6 +10,10 @@
 * [Unsplash](https://unsplash.com/)
 
 ---
+## Outros
+* [Emojipedia](https://emojipedia.org/) - Códigos de Emoji.
+
+
 ## Referências Online
 * [W3Schools](https://www.w3schools.com/)
   * **HTML, CSS, JavaScript, SQL, Python, Java, PHP, Bootstrap, How To, W3.CSS**

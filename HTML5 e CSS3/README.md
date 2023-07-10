@@ -121,12 +121,18 @@
 * Trabalha com desenvolvimento front-end e back-end.
 
 ---
+# Direitos Autorais
+* **Imagem** Marcadas para reutilização com modificação. (imagem livre para qualquer uso). 
+
+---
 ## Ferramentas
 * Google Crome
 
 * Visual Studio Code
 
 * GitHub Desktop
+
+* GIMP
 
 ---
 ## Configuração Visual Studio Code
@@ -218,13 +224,13 @@
 * `&#x` `00000` Coloca um Emoji.
 
 ### Moeda
- `&euro;` Euro.
+ `&euro;` União Européia (Euro).
 
- `&pound;` Libra.
+ `&pound;` Reino Unido (Libra Esterlina).
 
- `&yen;` Japonês.
+ `&yen;` Japão (Iene).
 
- `&cent;` Americano.
+ `&cent;` Estados Unidos da América (Dólar).
 
 ---
 ## Glossário
